@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmP005));
             this.pictureBox001 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox001)).BeginInit();
             this.SuspendLayout();
@@ -36,7 +35,7 @@
             // pictureBox001
             // 
             this.pictureBox001.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox001.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox001.Image")));
+            this.pictureBox001.Image = global::CSharp_FinallyHW.Properties.Resources.螢幕擷取畫面__882_;
             this.pictureBox001.Location = new System.Drawing.Point(0, 0);
             this.pictureBox001.Name = "pictureBox001";
             this.pictureBox001.Size = new System.Drawing.Size(800, 450);

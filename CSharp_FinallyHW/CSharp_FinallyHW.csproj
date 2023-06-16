@@ -202,6 +202,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -212,9 +213,119 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Resources\A0E5AEA5E597B5%2584.webp" />
+    <None Include="Resources\pokemon-go-coins.webp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\00.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\003_001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\003_002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7e16ace7443d45cc1def215c8cf82beefc69041c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\93f0bc0fb70b8dacd09aaf01cc69b572.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\600px-030Nidorina.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\600px-033Nidorino.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\600px-070Weepinbell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\600px-075Graveler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\600px-093Haunter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\600px-134Vaporeon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\600px-135Jolteon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\600px-136Flareon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\634e1c205ab72071fe941043f816a9e2f31db3ae.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\800_21cb7a3776e5fdbb6ffeb4e235067e88.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\800_21cb7a377645645456456ffeb4e235067e88.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\62973d0fc5f9bd5d8c819b8c885bd1f216983ff1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\96613b8fe63edfdf800cde823078fadc6ea9aae9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\285395ca77d82861fd30cea64567021a50c1169c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51159780189_e31faa60b6_b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\164455513926.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5115456456456431faa60b6_b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5115469696996969666969696996a60b6_b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a3bc17e6215031332462cc64e59b7922ddd14b91.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e0c239886911c204239481dc121a6qp5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f_18269218_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-photo-1612351.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pokemon-go-coins.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\火影中的銀魂.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\銀魂.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\螢幕擷取畫面 %28279%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\螢幕擷取畫面 %28431%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\螢幕擷取畫面 %28595%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\螢幕擷取畫面 %28676%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\螢幕擷取畫面 %28882%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\螢幕擷取畫面 %28949%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

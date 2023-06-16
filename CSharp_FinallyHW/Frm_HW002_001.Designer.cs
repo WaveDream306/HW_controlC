@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_HW002_001));
             this.lab_HW0200４ = new System.Windows.Forms.Label();
             this.lab_HW0200３ = new System.Windows.Forms.Label();
             this.lab_HW02002 = new System.Windows.Forms.Label();
@@ -188,7 +187,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImage = global::CSharp_FinallyHW.Properties.Resources.pexels_photo_1612351;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(673, 450);
             this.Controls.Add(this.btnEnd);

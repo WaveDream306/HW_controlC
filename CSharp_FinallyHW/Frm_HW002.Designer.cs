@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_HW002));
             this.label1 = new System.Windows.Forms.Label();
             this.btnEnd = new System.Windows.Forms.Button();
             this.btnAllMoney = new System.Windows.Forms.Button();
@@ -179,7 +178,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Image = global::CSharp_FinallyHW.Properties.Resources._285395ca77d82861fd30cea64567021a50c1169c;
             this.pictureBox2.Location = new System.Drawing.Point(-94, -15);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(684, 491);

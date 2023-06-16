@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_HW007));
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.Lab007 = new System.Windows.Forms.Label();
             this.PB007 = new System.Windows.Forms.PictureBox();
@@ -57,7 +56,7 @@
             // 
             // PB007
             // 
-            this.PB007.Image = ((System.Drawing.Image)(resources.GetObject("PB007.Image")));
+            this.PB007.Image = global::CSharp_FinallyHW.Properties.Resources._634e1c205ab72071fe941043f816a9e2f31db3ae;
             this.PB007.Location = new System.Drawing.Point(419, 366);
             this.PB007.Name = "PB007";
             this.PB007.Size = new System.Drawing.Size(360, 360);
@@ -67,7 +66,7 @@
             // 
             // PB008
             // 
-            this.PB008.Image = ((System.Drawing.Image)(resources.GetObject("PB008.Image")));
+            this.PB008.Image = global::CSharp_FinallyHW.Properties.Resources._600px_070Weepinbell;
             this.PB008.Location = new System.Drawing.Point(815, 724);
             this.PB008.Name = "PB008";
             this.PB008.Size = new System.Drawing.Size(353, 297);
@@ -77,7 +76,7 @@
             // 
             // PB009
             // 
-            this.PB009.Image = ((System.Drawing.Image)(resources.GetObject("PB009.Image")));
+            this.PB009.Image = global::CSharp_FinallyHW.Properties.Resources._600px_075Graveler;
             this.PB009.Location = new System.Drawing.Point(953, 71);
             this.PB009.Name = "PB009";
             this.PB009.Size = new System.Drawing.Size(399, 289);

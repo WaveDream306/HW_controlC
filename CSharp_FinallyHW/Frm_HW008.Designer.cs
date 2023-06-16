@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_HW008));
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.PB001 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
@@ -47,7 +46,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Image = global::CSharp_FinallyHW.Properties.Resources.螢幕擷取畫面__431_;
             this.pictureBox2.Location = new System.Drawing.Point(234, 3);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(225, 150);
@@ -58,7 +57,7 @@
             // 
             // PB001
             // 
-            this.PB001.Image = ((System.Drawing.Image)(resources.GetObject("PB001.Image")));
+            this.PB001.Image = global::CSharp_FinallyHW.Properties.Resources.螢幕擷取畫面__279_;
             this.PB001.Location = new System.Drawing.Point(3, 3);
             this.PB001.Name = "PB001";
             this.PB001.Size = new System.Drawing.Size(225, 150);
@@ -69,7 +68,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Image = global::CSharp_FinallyHW.Properties.Resources.螢幕擷取畫面__595_;
             this.pictureBox3.Location = new System.Drawing.Point(465, 3);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(225, 150);
@@ -80,7 +79,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Image = global::CSharp_FinallyHW.Properties.Resources.螢幕擷取畫面__676_;
             this.pictureBox4.Location = new System.Drawing.Point(3, 159);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(225, 150);
@@ -91,7 +90,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Image = global::CSharp_FinallyHW.Properties.Resources.螢幕擷取畫面__882_;
             this.pictureBox5.Location = new System.Drawing.Point(465, 159);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(225, 150);
@@ -102,7 +101,7 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
+            this.pictureBox6.Image = global::CSharp_FinallyHW.Properties.Resources.螢幕擷取畫面__949_;
             this.pictureBox6.Location = new System.Drawing.Point(234, 159);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(225, 150);
