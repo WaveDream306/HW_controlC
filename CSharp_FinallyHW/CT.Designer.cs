@@ -58,12 +58,14 @@
             // 
             // splitContainer1.Panel1
             // 
+            this.splitContainer1.Panel1.BackgroundImage = global::CSharp_FinallyHW.Properties.Resources._800_21cb7a377645645456456ffeb4e235067e88;
             this.splitContainer1.Panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.splitContainer1.Panel1.Controls.Add(this.flowLayoutPanel1);
             // 
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.BackColor = System.Drawing.Color.OliveDrab;
+            this.splitContainer1.Panel2.BackgroundImage = global::CSharp_FinallyHW.Properties.Resources._164455513926;
             this.splitContainer1.Panel2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.splitContainer1.Size = new System.Drawing.Size(984, 524);
             this.splitContainer1.SplitterDistance = 136;
@@ -192,6 +194,7 @@
             // 
             // SP_002.Panel1
             // 
+            this.SP_002.Panel1.BackgroundImage = global::CSharp_FinallyHW.Properties.Resources._5115469696996969666969696996a60b6_b;
             this.SP_002.Panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.SP_002.Panel1.Controls.Add(this.label1);
             // 
